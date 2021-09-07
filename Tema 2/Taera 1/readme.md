@@ -1,7 +1,6 @@
-Actividad 3
+Actividad 1
 ----
 ejecucio
 ----
 estos son algunas ejecuciones
 
-<img src="https://github.com/MagoPato/Estructura_Datos_Actividades/blob/main/Tema1/Taera%201/Ejecuciones/ejemplo1.PNG"  width="35%"> </img>
