@@ -18,10 +18,6 @@ public class Fibonacci {
         }
     }
 
-    void mostraPosicion() {
-        System.out.println("\n" + resolucion(getTam()));
-    }
-
     int resolucion(int n) {
         if (n < 2) {
             return n;

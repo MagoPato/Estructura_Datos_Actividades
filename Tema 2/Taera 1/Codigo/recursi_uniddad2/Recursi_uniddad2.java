@@ -6,7 +6,6 @@ public class Recursi_uniddad2 {
 
     public static void main(String[] args) {
         // TODO code application logic here
-
         Fibonacci Fibonacci = new Fibonacci();
         Scanner teclado = new Scanner(System.in);
         int n;
@@ -18,6 +17,5 @@ public class Recursi_uniddad2 {
         } else {
             System.out.println("pone numeros mayores a 0");
         }
-
     }
 }
